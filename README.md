@@ -6,7 +6,7 @@
 
 There are 2 options to build the app in Android: one automatic and another manual.
  
-* **Option 1) Automatic APK generation for Android**
+* **Option 1) Automatic APK generation for Android** 
    * Navigate to the folder called [tools](tools)
    * Make sure that both __docker__ and __docker-compose__ are available in the machine.
      * If needed, [install-docker.sh](tools/install-docker.sh) will install both.
